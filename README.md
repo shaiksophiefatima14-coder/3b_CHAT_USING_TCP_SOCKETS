@@ -43,7 +43,8 @@ while True:
 ```
 
 ## OUPUT
-<img width="1918" height="1198" alt="Screenshot 2026-02-25 140800" src="https://github.com/user-attachments/assets/16e2b7c6-1618-4353-97e0-4028a7517dd8" /># 
+<img width="1918" height="1198" alt="Screenshot 2026-02-25 140800" src="https://github.com/user-attachments/assets/16e2b7c6-1618-4353-97e0-4028a7517dd8" />
+
 
 
 
